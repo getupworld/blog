@@ -1,0 +1,2 @@
+# blog
+write the blog
