@@ -1,2 +1,1 @@
-# blog
-write the blog
+分享日常
